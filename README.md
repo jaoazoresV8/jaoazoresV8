@@ -67,7 +67,7 @@ Story-driven gameplay
 → Design future-ready architectures
 
 📡 NETWORK INTERFACE
-GitHub    : https://github.com/JaoMerAzores
+GitHub    : https://github.com/jaoazoresV8
 Portfolio : Coming Soon
 
 <div align="center"> <pre> 01010011 01111001 01110011 01110100 01100101 01101101 01000011 01110010 01100101 01100001 01110100 01101111 01110010 </pre>
