@@ -74,4 +74,15 @@ Portfolio : Coming Soon
 
 <strong>"Code is not written. It is engineered."</strong>
 
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=about.me&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
++-+-+-+-+-+-+-+
+|S|Y|S|T|E|M|
++-+-+-+-+-+-+-+
+|A|R|C|H|I|T|E|C|T|
++-+-+-+-+-+-+-+-+-+
+
 </div> <!-- ================= SYSTEM SHUTDOWN ================= -->
